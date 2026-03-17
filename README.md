@@ -8,12 +8,16 @@ Sou um profissional de tecnologia focado em criar soluções eficientes. Tenho f
 
 * 🌱 Atualmente cursando **Desenvolvimento de Sistemas SENAI**
 * 💬 Pergunte-me sobre **Python, HTML, JavaScript**
-* ⚡ Curiosidade: **Um fato rápido e legal, sou apaixonado por Engenharia Mecânica**
+* ⚡ Curiosidade: **Sou apaixonado por Engenharia Mecânica**
 
 ---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app)
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniSM09&show_icons=true&locale=pt-br" alt="Estatísticas do GitHub do ViniSM09" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniSM09&layout=compact&locale=pt-br" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
