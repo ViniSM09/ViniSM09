@@ -1,6 +1,6 @@
 # Olá! 👋 Sou o Vinicius Mendes
 
-**Desenvolvedor(a) [Sua Área de Atuação, ex: Front-end / Full-Stack / Dados]**
+**Estudante de Desenvolvimento De Sistemas SENAI**
 
 Sou um(a) profissional de tecnologia focado(a) em criar soluções [Adjetivo, ex: eficientes, escaláveis, criativas]. Tenho facilidade para aprender novas ferramentas e gosto de trabalhar em projetos que resolvem problemas reais.
 
