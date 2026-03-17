@@ -2,7 +2,7 @@
 
 **Estudante de Desenvolvimento De Sistemas SENAI**
 
-Sou um(a) profissional de tecnologia focado(a) em criar soluções [Adjetivo, ex: eficientes, escaláveis, criativas]. Tenho facilidade para aprender novas ferramentas e gosto de trabalhar em projetos que resolvem problemas reais.
+Sou um profissional de tecnologia focado em criar soluções [Adjetivo, ex: eficientes, escaláveis, criativas]. Tenho facilidade para aprender novas ferramentas e gosto de trabalhar em projetos que resolvem problemas reais.
 
 ### 👨‍💻 Sobre mim
 
