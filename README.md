@@ -7,7 +7,7 @@ Sou um profissional de tecnologia focado em criar soluções eficientes. Tenho f
 ### 👨‍💻 Sobre mim
 
 * 🌱 Atualmente cursando: **Desenvolvimento de Sistemas SENAI**
-* 💬 Conhecimento de: **Python, HTML, JavaScript**
+* 💬 Conhecimento sobre: **Python, HTML, JavaScript**
 * ⚡ Curiosidade: **Sou apaixonado por Engenharia Mecânica**
 
 ---
@@ -36,7 +36,7 @@ Sou um profissional de tecnologia focado em criar soluções eficientes. Tenho f
 ### 📫 Como me encontrar
 
 <div align="left">
-  <a href="https://linkedin.com/in/[SEU-LINKEDIN-AQUI]" target="_blank">
+  <a href="https://linkedin.com/in/vin%C3%ADcius-dos-santos-mendes-b510483b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:v.mendes@edu.senai.br">
