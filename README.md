@@ -2,14 +2,13 @@
 
 **Estudante de Desenvolvimento De Sistemas SENAI**
 
-Sou um profissional de tecnologia focado em criar soluções [Adjetivo, ex: eficientes, escaláveis, criativas]. Tenho facilidade para aprender novas ferramentas e gosto de trabalhar em projetos que resolvem problemas reais.
+Sou um profissional de tecnologia focado em criar soluções eficientes. Tenho facilidade para aprender novas ferramentas e gosto de trabalhar em projetos que resolvem problemas reais.
 
 ### 👨‍💻 Sobre mim
 
-* 🔭 Atualmente trabalhando em **[Seu projeto atual ou "projetos pessoais"]**
-* 🌱 Atualmente aprendendo **[O que você estuda hoje, ex: React, APIs, Machine Learning]**
-* 💬 Pergunte-me sobre **[Assuntos que você domina, ex: Python, Lógica de Programação]**
-* ⚡ Curiosidade: **[Um fato rápido e legal, ex: Sou apaixonado por café e livros de ficção]**
+* 🌱 Atualmente cursando **Desenvolvimento de Sistemas SENAI**
+* 💬 Pergunte-me sobre **Python, HTML, JavaScript**
+* ⚡ Curiosidade: **[Um fato rápido e legal, sou apaixonado por Engenharia Mecânica]**
 
 ---
 
