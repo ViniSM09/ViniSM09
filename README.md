@@ -15,8 +15,8 @@ Sou um profissional de tecnologia focado em criar soluções eficientes. Tenho f
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniSM09&show_icons=true&locale=pt-br" alt="Estatísticas do GitHub do ViniSM09" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniSM09&layout=compact&locale=pt-br" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniSM09&show_icons=true&locale=pt-br&theme=dark" alt="Estatísticas do GitHub do ViniSM09" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniSM09&layout=compact&locale=pt-br&theme=dark" alt="Linguagens mais usadas" />
 </div>
 
 ---
@@ -37,9 +37,4 @@ Sou um profissional de tecnologia focado em criar soluções eficientes. Tenho f
 
 <div align="left">
   <a href="https://linkedin.com/in/[SEU-LINKEDIN-AQUI]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:v.mendes@edu.senai.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?
