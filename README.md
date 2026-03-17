@@ -8,7 +8,12 @@ Sou um profissional de tecnologia focado em criar soluções eficientes. Tenho f
 
 * 🌱 Atualmente cursando **Desenvolvimento de Sistemas SENAI**
 * 💬 Pergunte-me sobre **Python, HTML, JavaScript**
-* ⚡ Curiosidade: **[Um fato rápido e legal, sou apaixonado por Engenharia Mecânica]**
+* ⚡ Curiosidade: **Um fato rápido e legal, sou apaixonado por Engenharia Mecânica**
+
+---
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app)
 
 ---
 
