@@ -6,8 +6,8 @@ Sou um profissional de tecnologia focado em criar soluções eficientes. Tenho f
 
 ### 👨‍💻 Sobre mim
 
-* 🌱 Atualmente cursando **Desenvolvimento de Sistemas SENAI**
-* 💬 Pergunte-me sobre **Python, HTML, JavaScript**
+* 🌱 Atualmente cursando: **Desenvolvimento de Sistemas SENAI**
+* 💬 Conhecimento de: **Python, HTML, JavaScript**
 * ⚡ Curiosidade: **Sou apaixonado por Engenharia Mecânica**
 
 ---
