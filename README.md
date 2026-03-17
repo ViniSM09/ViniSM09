@@ -1,4 +1,4 @@
-# Olá! 👋 Sou o Vinicius dos Santos Mendes
+# Olá! 👋 Sou o Vinicius Mendes
 
 **Desenvolvedor(a) [Sua Área de Atuação, ex: Front-end / Full-Stack / Dados]**
 
